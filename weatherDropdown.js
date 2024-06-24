@@ -1,4 +1,6 @@
 
+//Open up Chrome dev tool select the 'Sources' tab → copy and pase the following code into a Chrome snippet, then select Ctrl + Enter to run
+
 const setWeatherData = async function (nestedDiv) {
 
     //utilise 'place postal address' to retrieve relevant information for getting weather info from API
