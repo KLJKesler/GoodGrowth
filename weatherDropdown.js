@@ -1,5 +1,5 @@
 
-//Open up Chrome dev tool select the 'Sources' tab → copy and paste the following code into a Chrome snippet, then select Ctrl + Enter to run
+//Open up Chrome dev tools select the 'Sources' tab → copy and paste the following code into a Chrome snippet, then select Ctrl + Enter to run, when on one of the properties’ information pages 
 
 const setWeatherData = async function (nestedDiv) {
 
