@@ -1,5 +1,5 @@
 
-//Open up Chrome dev tool select the 'Sources' tab → copy and pase the following code into a Chrome snippet, then select Ctrl + Enter to run
+//Open up Chrome dev tool select the 'Sources' tab → copy and paste the following code into a Chrome snippet, then select Ctrl + Enter to run
 
 const setWeatherData = async function (nestedDiv) {
 
